@@ -1,6 +1,7 @@
 ---
 title: "Spring Boot"
 ---
+
 ## Soring Boot基础概念
 ####什么是Spring Boot？
 Spring Boot是一个基于Spring框架的快速开发工具。它的主要作用是简化Spring应用的初始化搭建和开发过程。
