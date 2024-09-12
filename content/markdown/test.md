@@ -7,7 +7,7 @@ tag:
 akdfhjkadhfjkadsf
 [[look.md]]
 
-
+![[look.md]]
 
 ![[look.md#三.文本显示]]
 
