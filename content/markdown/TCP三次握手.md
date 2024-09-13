@@ -21,7 +21,7 @@ TCP(Transmission control protocol)及传输控制协议，是一种**面向链�
 
 ### TCP建立链接过程
 
-`![1726236129849](./image/TCP三次握手/1726237782912.png) `
+<img src="../markdown/image/TCP三次握手/sanci.png" alt="TCP四次挥手">
 
 # 四次挥手
 
@@ -34,4 +34,4 @@ TCP(Transmission control protocol)及传输控制协议，是一种**面向链�
 
 ### TCP四次挥手流程图
 
-`![1726237782912](./image/TCP三次握手/四次挥手.png)`
+<img src="../markdown/image/TCP三次握手/四次挥手.png" alt="TCP四次挥手">
